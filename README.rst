@@ -34,7 +34,7 @@ Here is an example of the rendering you can get with this plugin on the wait scr
 .. --- Links ------------------------------------------------------------------
 
 .. _`pibooth`: https://pypi.org/project/pibooth
-.. _`pibooth_example`: https://documentation.pibooth.org/en/stable/sources/plugins/examples.html
+.. _`pibooth_example`: https://documentation.pibooth.org/en/stable/sources/plugins/examples.html#setup-a-custom-camera
 
 .. |PythonVersions| image:: https://img.shields.io/badge/python-3.6+-red.svg
    :target: https://www.python.org/downloads
