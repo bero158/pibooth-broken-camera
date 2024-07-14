@@ -9,7 +9,8 @@ pibooth-broken-camera
 
 The meaning of this plugin is to make Pibooth more reliable. This plugin is trying to solve dozens of issues with camera, camera state, camera firmware, flash battery, USB connection and many others.
 This plugin adds GPhoto2 two restart actions after preview or capture initialy fails. 
-The plugin is based on `pibooth_example` "Setup a custom camera" from piboot documentation 
+The plugin is based on `pibooth_example`_ "Setup a custom camera" from piboot documentation 
+
 Install
 -------
 
