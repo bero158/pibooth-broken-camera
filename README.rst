@@ -26,7 +26,7 @@ Example
 
 Here is an example of the rendering you can get with this plugin on the wait screen:
 
-.. image:: https://github.com/bero158/pibooth-broken-camera/blob/main/docs/images/cam_fail.png
+.. image:: https://github.com/bero158/pibooth-broken-camera/blob/main/docs/cam_fail.png
    :align: center
    :alt: Example screenshot
 
@@ -39,4 +39,3 @@ Here is an example of the rendering you can get with this plugin on the wait scr
    :target: https://www.python.org/downloads
    :alt: Python 3.6+
 
-https://github.com/bero158/pibooth-myip/blob/main/docs/images/waitscreen.png
