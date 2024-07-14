@@ -25,7 +25,7 @@ The plugin has no configuration. The only option here is you can enable/disable 
 Example
 -------
 
-Here is an example of the rendering you can get with this plugin on the wait screen:
+Here is an example of actions logged after the USB cable was disconnected from the camera and reconnected.
 
 .. image:: https://github.com/bero158/pibooth-broken-camera/blob/main/docs/cam_fail.png
    :align: center
